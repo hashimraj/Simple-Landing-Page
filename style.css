@@ -175,7 +175,7 @@ img {
 }
 
 form div {
-    margin-bottom: 1.75rem;
+    margin-bottom: 1rem;
 }
 
 form label {
@@ -222,7 +222,7 @@ p.muted {
 }
 
 form button + p {
-    margin-top: 1.75rem;
+    margin-top: 1rem;
 }
 
 /* Visit store */
@@ -290,6 +290,10 @@ footer p {
     }
     .gallery {
         font-size: 0.5rem;
+    }
+    form {
+        font-size: 0.8rem;
+
     }
 }
 
